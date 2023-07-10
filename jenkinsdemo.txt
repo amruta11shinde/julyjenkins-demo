@@ -6,3 +6,4 @@ all is going to set
 this is my nodejs install
 added artifact
 added local variable
+today is last day
