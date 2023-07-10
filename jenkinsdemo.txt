@@ -13,3 +13,4 @@ npm is install
 artifact is added
 added  global environment variable
 added local variable
+we add local variable
