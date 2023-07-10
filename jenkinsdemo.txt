@@ -11,3 +11,4 @@ today is last day
  webhook last demo
 npm is install 
 artifact is added
+added  global environment variable
